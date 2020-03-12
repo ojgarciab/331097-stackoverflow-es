@@ -1,4 +1,4 @@
-# Datos de la plantilla [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ojgarciab/331097-stackoverflow-es)
+# Reproducción de problema de carga de scripts externos [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/ojgarciab/331097-stackoverflow-es)
 
 Pregunta original:
 
